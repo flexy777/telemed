@@ -5401,7 +5401,7 @@ select {
   min-width: 340px;
 }
 .partners{
-  max-width: 75%;
+  width: 200px;
 }
 
 .partner-item {
